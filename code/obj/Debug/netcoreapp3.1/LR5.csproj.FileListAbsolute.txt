@@ -1,0 +1,32 @@
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.exe
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.deps.json
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.json
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.dev.json
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.dll
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.pdb
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.AssemblyReference.cache
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.Application.resources
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.GenerateResource.cache
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.AssemblyInfoInputs.cache
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.AssemblyInfo.cs
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.CoreCompileInputs.cache
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.dll
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.pdb
+I:\Projects\Универ\Компьютерная графика\Практика\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.exe
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.deps.json
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.json
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.dll
+C:\Users\Administrator\source\repos\KG\LR5\code\bin\Debug\netcoreapp3.1\LR5.pdb
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.Application.resources
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.dll
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.pdb
+C:\Users\Administrator\source\repos\KG\LR5\code\obj\Debug\netcoreapp3.1\LR5.genruntimeconfig.cache
